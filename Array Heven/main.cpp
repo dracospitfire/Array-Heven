@@ -2,7 +2,7 @@
 //  Array-Heven
 //
 //  Created by Austin Flores on 2/22/14.
-//  Copyright (c) 2014 Austin Flores. All rights reserved.
+//  Copyright (c) 2014 dracospitfire. All rights reserved.
 
 
 #include <iostream>
