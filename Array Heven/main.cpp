@@ -46,7 +46,7 @@ int main() {
     
     for ( int n = 0; n < (i - 1); n++)
         cout << nums[n] << " ";
-    
     cout << "\n\n\t";
+    
     return 0;
 }
